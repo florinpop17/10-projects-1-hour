@@ -1,5 +1,13 @@
 ## Coding Challenge - 10 JavaScript Projects in 1 Hour
 
+YouTube video is now Live, click below:
+
+WIP
+
+I took on a challenge to completed 10 Projects in 1 Hour while streaming everything on [Twitch](https://twitch.tv/florinpop17).
+
+You can find the projects [here](https://10projects1hour.netlify.app/).
+
 1. Hamburger Button
 
 -   button + hamburger icon
