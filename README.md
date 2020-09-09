@@ -2,7 +2,7 @@
 
 YouTube video is now Live, click below:
 
-WIP
+[![1Hour10Projects](1Hour10Projects.png)](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 
 I took on a challenge to completed 10 Projects in 1 Hour while streaming everything on [Twitch](https://twitch.tv/florinpop17).
 
